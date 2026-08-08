@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-1mzywb.coloksgp77amd.site/sitemap.xml
